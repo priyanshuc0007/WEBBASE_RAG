@@ -4,4 +4,4 @@ This package allows you to load, split, embed, and store text data using RAG wit
    
 
 
-   you can run this rag my running main.py 
+   you can run this rag by running main.py 
