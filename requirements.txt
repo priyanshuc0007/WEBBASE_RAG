@@ -1,0 +1,9 @@
+torch
+langchain_community
+python-dotenv
+streamlit
+fastapi
+uvicorn
+requests
+langchain_chain
+faiss
