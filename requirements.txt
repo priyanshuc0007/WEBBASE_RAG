@@ -6,4 +6,5 @@ fastapi
 uvicorn
 requests
 langchain_chain
-faiss
+faiss-cpu
+bs4

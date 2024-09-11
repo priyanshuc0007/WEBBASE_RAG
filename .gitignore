@@ -9,8 +9,11 @@ __pycache__/
 .vscode/
 .idea/
 
-#.env
-.env/
+# Ignore environment variables file
+.env
+
+# Ignore data folder
+data/
 
 # Ignore large files
 *.dll
