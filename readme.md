@@ -44,4 +44,4 @@ Feel free to reach out if you have any questions or want to collaborate:
 
 ---
 
-### 🌈 **Let's Build the Future of AI Together!**
+###  **Let's Build the Future of AI Together!**
